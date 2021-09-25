@@ -1,1 +1,1 @@
-# *This folder contains all the solutions of leetCode.*
+# *This folder contains all the solutions of LeetCode.*
